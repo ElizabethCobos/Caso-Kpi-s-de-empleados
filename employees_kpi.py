@@ -109,7 +109,7 @@ st.markdown("**Analysis**")
 st.markdown("Within this site you are able to filter by gender, performance score, marital status to make a more profund\
             analysis. In general we see that the female population in the company work more hours than men. The employees in the company\
             are between 30-60 years but the salary is given according to the position they have. We can also appreciate that most of the\
-            employees have a performance score of 3 and that the worked hours doesn´t influence that score.")
+            employees have a performance score of 3 and that the worked hours doesnt influence that score.")
 
 
 
