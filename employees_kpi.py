@@ -15,7 +15,7 @@ st.title("Socialize your Knowledge")
 st.markdown("_Site that would help and make easier for us to analyze the performance of Socialize your Knowledge employees_")
 
 #--- LOGO ---#
-st.sidebar.image("a.png")
+st.sidebar.image("nasa-logo.jpg")
 st.sidebar.markdown("##")
 
 #--- SIDEBAR FILTERS ---#
